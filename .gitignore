@@ -12,3 +12,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+/Android_ASTC
+/Build
+/Platforms
+/Windows
