@@ -54,6 +54,14 @@
 		{
 			"Name": "MediaPipe4USpeech",
 			"Enabled": true
+		},
+		{
+			"Name": "GStreamer",
+			"Enabled": true
+		},
+		{
+			"Name": "VaRest",
+			"Enabled": true
 		}
 	]
 }
