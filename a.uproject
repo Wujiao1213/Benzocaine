@@ -34,6 +34,26 @@
 		{
 			"Name": "HairStrands",
 			"Enabled": true
+		},
+		{
+			"Name": "MediaPipe4UBVH",
+			"Enabled": true
+		},
+		{
+			"Name": "MediaPipe4UGStreamer",
+			"Enabled": true
+		},
+		{
+			"Name": "MediaPipe4ULiveLink",
+			"Enabled": true
+		},
+		{
+			"Name": "MediaPipe4U",
+			"Enabled": true
+		},
+		{
+			"Name": "MediaPipe4USpeech",
+			"Enabled": true
 		}
 	]
 }
