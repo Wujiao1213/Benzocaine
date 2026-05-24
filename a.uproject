@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.2",
+	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -36,30 +36,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MediaPipe4UBVH",
-			"Enabled": true
-		},
-		{
-			"Name": "MediaPipe4UGStreamer",
-			"Enabled": true
-		},
-		{
-			"Name": "MediaPipe4ULiveLink",
-			"Enabled": true
-		},
-		{
-			"Name": "MediaPipe4U",
-			"Enabled": true
-		},
-		{
-			"Name": "MediaPipe4USpeech",
-			"Enabled": true
-		},
-		{
-			"Name": "GStreamer",
-			"Enabled": true
-		},
-		{
 			"Name": "RigLogic",
 			"Enabled": true
 		},
@@ -88,6 +64,18 @@
 			"Name": "MetaHumanSDK",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bdea302c21ad4664a7d28a2a93d40b3f"
+		},
+		{
+			"Name": "MediaPipe4UNvAR",
+			"Enabled": false
+		},
+		{
+			"Name": "MediaPipe4ULLMSpeech",
+			"Enabled": false
+		},
+		{
+			"Name": "MediaPipe4ULLM",
+			"Enabled": false
 		}
 	]
 }
