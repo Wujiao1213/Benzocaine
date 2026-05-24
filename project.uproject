@@ -66,12 +66,17 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bdea302c21ad4664a7d28a2a93d40b3f"
 		},
 		{
+<<<<<<< Updated upstream
 			"Name": "MediaPipe4UNvAR",
 			"Enabled": false
 		},
 		{
 			"Name": "MediaPipe4ULLMSpeech",
 			"Enabled": false
+=======
+			"Name": "Water",
+			"Enabled": true
+>>>>>>> Stashed changes
 		},
 		{
 			"Name": "MediaPipe4ULLM",
