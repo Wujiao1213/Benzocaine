@@ -36,30 +36,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MediaPipe4UBVH",
-			"Enabled": true
-		},
-		{
-			"Name": "MediaPipe4UGStreamer",
-			"Enabled": true
-		},
-		{
-			"Name": "MediaPipe4ULiveLink",
-			"Enabled": true
-		},
-		{
-			"Name": "MediaPipe4U",
-			"Enabled": true
-		},
-		{
-			"Name": "MediaPipe4USpeech",
-			"Enabled": true
-		},
-		{
-			"Name": "GStreamer",
-			"Enabled": true
-		},
-		{
 			"Name": "RigLogic",
 			"Enabled": true
 		},
@@ -77,9 +53,7 @@
 			"SupportedTargetPlatforms": [
 				"IOS",
 				"Win64",
-				"Mac",
-				"Linux",
-				"Android"
+				"Mac"
 			]
 		},
 		{
@@ -92,16 +66,16 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bdea302c21ad4664a7d28a2a93d40b3f"
 		},
 		{
-			"Name": "MediaPipe4UMotion",
-			"Enabled": true
+			"Name": "MediaPipe4UNvAR",
+			"Enabled": false
 		},
 		{
-			"Name": "Water",
-			"Enabled": true
+			"Name": "MediaPipe4ULLMSpeech",
+			"Enabled": false
 		},
 		{
-			"Name": "WaterExtras",
-			"Enabled": true
+			"Name": "MediaPipe4ULLM",
+			"Enabled": false
 		}
 	]
 }
