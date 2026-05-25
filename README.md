@@ -1,3 +1,18 @@
-# a
+# 苯佐卡因虚拟实验室
 
-Developed with Unreal Engine 5
+<img width="554" height="286" alt="image" src="https://github.com/user-attachments/assets/14fdb893-51a8-400f-9404-efbe62764611" />
+
+# 核心功能
+支持完整的苯佐卡因制备实验；
+支持3D虚拟数字人导师，后台接入Coze智能体；
+支持教学模式、考试模式；
+支持VR/AR模式：Pico 4手柄操作（如倾倒液体、调节旋钮），适合沉浸式训练。
+
+# 开发者：
+胡兆潜，刘邦，李靖国
+
+# 指导老师：
+李尚林，姚飞虹，肖娟
+
+# 版权所有：
+湘南学院（已申请软件著作权）
