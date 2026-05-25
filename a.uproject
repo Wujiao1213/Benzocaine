@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.2",
+	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -36,30 +36,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MediaPipe4UBVH",
-			"Enabled": true
-		},
-		{
-			"Name": "MediaPipe4UGStreamer",
-			"Enabled": true
-		},
-		{
-			"Name": "MediaPipe4ULiveLink",
-			"Enabled": true
-		},
-		{
-			"Name": "MediaPipe4U",
-			"Enabled": true
-		},
-		{
-			"Name": "MediaPipe4USpeech",
-			"Enabled": true
-		},
-		{
-			"Name": "GStreamer",
-			"Enabled": true
-		},
-		{
 			"Name": "RigLogic",
 			"Enabled": true
 		},
@@ -77,7 +53,9 @@
 			"SupportedTargetPlatforms": [
 				"IOS",
 				"Win64",
-				"Mac"
+				"Mac",
+				"Linux",
+				"Android"
 			]
 		},
 		{
