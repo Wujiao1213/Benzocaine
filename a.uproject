@@ -36,30 +36,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MediaPipe4UBVH",
-			"Enabled": true
-		},
-		{
-			"Name": "MediaPipe4UGStreamer",
-			"Enabled": true
-		},
-		{
-			"Name": "MediaPipe4ULiveLink",
-			"Enabled": true
-		},
-		{
-			"Name": "MediaPipe4U",
-			"Enabled": true
-		},
-		{
-			"Name": "MediaPipe4USpeech",
-			"Enabled": true
-		},
-		{
-			"Name": "GStreamer",
-			"Enabled": true
-		},
-		{
 			"Name": "RigLogic",
 			"Enabled": true
 		},
@@ -82,7 +58,8 @@
 		},
 		{
 			"Name": "VaRest",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e47be161e7a24e928560290abd5dcc4f"
 		},
 		{
 			"Name": "MetaHumanSDK",
