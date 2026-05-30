@@ -79,5 +79,8 @@
 			"Name": "MediaPipe4ULLM",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
