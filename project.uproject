@@ -81,7 +81,7 @@
 		},
 		{
 			"Name": "GStreamer",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "MediaPipe4UBVH",
@@ -89,7 +89,7 @@
 		},
 		{
 			"Name": "MediaPipe4UGStreamer",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "MediaPipe4ULiveLink",
