@@ -14,6 +14,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.sln.DotSettings.user
 /Android_ASTC
 /Build
 /Platforms
