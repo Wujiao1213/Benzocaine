@@ -78,6 +78,10 @@
 		{
 			"Name": "MediaPipe4ULLM",
 			"Enabled": false
+		},
+		{
+			"Name": "SkeletalMeshModelingTools",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
